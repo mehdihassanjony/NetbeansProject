@@ -27,17 +27,4 @@ This CD Contains Following Items.
 
 I hope you are able run these project, if you find any problem just contact the developers.
 
-1) Andreas Sosilo 
-
-
-2)Naveen Bangalore Srinivasmurthy
-
-
-3)Sunil Mahesh Moudgalya
-
-
-4)Vinay katara 
-
-
-5)Yogesh Patel
-
+1) Mehdi Hassan Jony
